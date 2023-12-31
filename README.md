@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF2E63&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=FF2E63&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+chocolaggibbiddori's+GitHub!👋)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=FF2E63&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+chocolaggibbiddori's+GitHub!👋)
 
 ## 안녕하세요!
 반갑습니다! 저는 강동희라고 합니다. 즐거운 백엔드 개발자를 꿈꾸고 있습니다.
