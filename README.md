@@ -26,7 +26,7 @@
 - [3rd mini project](https://chocolaggibbiddori.github.io/bootcamp-miniproject3-shopping_mall)
 - [4th mini project](https://chocolaggibbiddori.github.io/bootcamp-miniproject4-shopping-mall-spring)
 - [5th mini project](https://chocolaggibbiddori.github.io/bootcamp-miniproject5-ultimates)
-- [Final Project](https://github.com/miracle-job-a): 총 6명이 협업하여 만든 MSA 프로젝트이며 제가 참여한 파트는 [user-service](https://github.com/chocolaggibbiddori/miracle-job-a-user-service), [gateway-service](https://github.com/chocolaggibbiddori/miracle-job-a-gateway-service), [util-service](https://github.com/chocolaggibbiddori/miracle-job-a-util-service) 입니다.
+- [Final Project](https://github.com/miracle-job-a): 총 6명이 협업하여 만든 최종 프로젝트이며 제가 참여한 파트는 [user-service](https://github.com/chocolaggibbiddori/miracle-job-a-user-service), [gateway-service](https://github.com/chocolaggibbiddori/miracle-job-a-gateway-service), [util-service](https://github.com/chocolaggibbiddori/miracle-job-a-util-service) 입니다.
 
 <br>
 
