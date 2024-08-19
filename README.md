@@ -9,7 +9,7 @@
 ## 🚀 기술 스택
 - Language: ![Java 8](https://img.shields.io/badge/Java_8-FF3434) ![Java 11](https://img.shields.io/badge/Java_11-FF3434) ![Java 17](https://img.shields.io/badge/Java_17-FF3434)
 - Front-End: ![HTML5](https://img.shields.io/badge/HTML5-FFFFFF?logo=HTML5&logoColor=E34F26) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-FFFFFF?logo=Thymeleaf&logoColor=005F0F)
-- Framework: ![Spring](https://img.shields.io/badge/Spring-FFFFFF?logo=Spring) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-FFFFFF?logo=SpringBoot) ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-FFFFFF)
+- Framework: ![Spring](https://img.shields.io/badge/Spring-FFFFFF?logo=Spring) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-FFFFFF?logo=SpringBoot) ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-FFFFFF) ![Spring Security](https://img.shields.io/badge/Spring_Security-FFFFFF?logo=springsecurity)
 - DB: ![H2](https://img.shields.io/badge/H2-FFFFFF) ![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?logo=MySQL)
 - OS: ![Linux](https://img.shields.io/badge/Linux-FFFFFF?logo=Linux) ![MacOS](https://img.shields.io/badge/macOS-FFFFFF?logo=Apple&logoColor=000000) ![Windows](https://img.shields.io/badge/Windows-FFFFFF?logo=Windows%2010&logoColor=0078D6)
 - IDE: ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-FFFFFF?logo=IntelliJ%20IDEA&logoColor=000000) ![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-FFFFFF?logo=Eclipse%20IDE&logoColor=2C2255)
